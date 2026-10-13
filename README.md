@@ -18,7 +18,6 @@ I turn ideas into **modern websites, web apps and useful digital products**.
 
 I'm a full stack web developer who enjoys creating clean, responsive interfaces and building the systems behind them. I work on everything from company websites and landing pages to custom dashboards, CRMs and management platforms.
 
-- 🚀 Co-Founder of **MD Digital Solutions**, a digital development and marketing agency
 - 🧩 Interested in **web applications, automation and scalable software**
 - 🛠️ Focused on practical solutions, performance and user experience
 - 📫 Reach me through my [GitHub profile](https://github.com/alfredomagnelli2005)
