@@ -2,7 +2,7 @@
 
 # Hey, I'm Alfredo Magnelli 👋
 
-### Full Stack Developer · Co-Founder at MD Digital Solutions
+### Full Stack Developer
 
 I turn ideas into **modern websites, web apps and useful digital products**.
 
@@ -58,10 +58,9 @@ Here are some projects I've worked on. Client project source code is kept privat
 | Project | What I built | Type |
 | --- | --- | --- |
 | **MD Digital Solutions** | Digital agency website showcasing web development, marketing and other services | Agency website |
-| **LB Motors** | Vehicle sales and rental platform with administrative management features | Web platform |
-| **EMA Srl** | Corporate website for an ambulance and medical-equipment business | Business website |
-| **StarCall SRL** | Professional company website | Business website |
-| **EMA Service** | Website for an industrial systems and automation business | Business website |
+| **[LB Motors](https://www.lbmotor.it)** | Vehicle sales and rental platform with administrative management features | Web platform |
+| **[StarCall SRL](https://www.starcall.it)** | Professional company website | Business website |
+| **[SecureFire SRLS](https://www.securefiresrls.it)** | Professional company website | Business website |
 | **[Blade-Runner](https://github.com/alfredomagnelli2005/Blade-Runner)** | Digital menu project | Public GitHub repository |
 
 > 🔒 Commercial client projects are featured here as portfolio work; their source code is not publicly shared. Live demo links can be added separately.
